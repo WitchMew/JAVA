@@ -1,4 +1,5 @@
-public class Overloading {
+// Function Overloading in java 
+public class Overloading {     
 void sum(){
     System.out.println("Hello I'm Sum method");
 }
@@ -12,3 +13,4 @@ public static void main(String[]args)
     obj.sum(20,54);
 }
 }
+
