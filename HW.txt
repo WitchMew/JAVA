@@ -1,0 +1,19 @@
+#Sum of booundry elements in array
+
+ if(i==0||j==0||i==3||j==3)
+
+# H
+  HE
+  HEL
+  HELL
+  HELLO
+for(int i=0; i<st.length(); i++)
+{
+ for(int j=0; j<=i; j++)
+ {
+   System.out.println(s.charAt(i));
+ }
+ s.o.p();
+}
+
+# HH EE LL LL OO

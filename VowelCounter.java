@@ -11,6 +11,7 @@ public class VowelCounter {
             char ch = str.charAt(i);
             if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
                 count++;
+                System.out.println(ch);
             }
         }
         return count;
