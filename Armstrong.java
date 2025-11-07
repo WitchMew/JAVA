@@ -15,7 +15,7 @@ class armstrong
             while(temp!=0)
             {
                 int r = temp%10;
-                sum=sum+(int)Math.pow(r, len);
+                sum=sum+(int)Math.pow(r,len);
                 temp=temp/10;
             }
             if(sum==num)
