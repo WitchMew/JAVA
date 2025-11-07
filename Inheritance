@@ -1,0 +1,15 @@
+Inheritance : 
+1 Parent class also knwn as Base class and Super class
+2 Child class also knwn as Derived class and Sub class
+3 Inheritance is a mechanism where a new class inherits the properties and behavior (methods) of an existing class.
+4 The existing class is called the "parent class" or "superclass," and the new class is called the "child class" or "subclass."
+5 Inheritance promotes code reusability and establishes a hierarchical relationship between classes.
+ 
+
+Syntax : 
+ class A {
+        // Parent class members (fields and methods)
+ }
+    class B extends A {
+            // Child class members (fields and methods)
+    }
